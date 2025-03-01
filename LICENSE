@@ -1,13 +1,16 @@
-Copyright (c) 2025 Zer0
+Zer0 Kullanım Lisansı (ZKL)
+Copyright (c) 2025 Zer0Eren
 
-Bu proje, geliştiricisinin izni olmadan **kopyalanamaz, dağıtılamaz veya ticari amaçla kullanılamaz**.
-Kod yalnızca **kişisel ve eğitim amaçlı kullanım** içindir.
-Herhangi bir yeniden dağıtım veya ticari kullanım için geliştiriciden **önceden yazılı izin alınmalıdır**.
+Bu proje, geliştiricisinin izni olmadan kopyalanamaz, dağıtılamaz veya ticari amaçla kullanılamaz.
+Kod yalnızca kişisel ve eğitim amaçlı kullanım içindir.
+Herhangi bir yeniden dağıtım veya ticari kullanım için geliştiriciden önceden yazılı izin alınmalıdır.
 
-**İzin Verilenler:**
-✅ Kodu indirip çalıştırabilirsin.
+İzin Verilenler:
+✔ Kodu indirip çalıştırabilirsin.
 
-**İzin Verilmeyenler:**
+İzin Verilmeyenler:
 ❌ Kodu kopyalayıp tekrar dağıtamazsın.
 ❌ Kodu değiştirip paylaşamazsın.
 ❌ Ticari amaçlarla kullanamazsın.
+
+Not: Bu lisans, açık kaynak lisansları gibi serbest kullanım hakkı vermez. Geliştiricinin izni olmadan kodun herhangi bir şekilde değiştirilmesi, dağıtılması veya ticari olarak kullanılması yasaktır.
