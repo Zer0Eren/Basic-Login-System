@@ -92,7 +92,7 @@ python basic-login-system.py
 
 ## ⚠ Kullanım Şartları
 
-Bu proje, geliştiricisinin izni olmadan **kopyalanamaz, dağıtılamaz veya ticari amaçla kullanılamaz.**  
-Kod yalnızca **kişisel ve eğitim amaçlı kullanım** içindir.  
-Herhangi bir yeniden dağıtım veya ticari kullanım için geliştiriciden **önceden yazılı izin alınmalıdır.**
+Bu proje yalnızca kişisel ve eğitim amaçlı kullanım içindir.
+Başkaları tarafından tekrar paylaşılması, değiştirilmesi veya ticari kullanımı yasaktır.
+Detaylı kullanım şartları için LICENSE dosyasını okuyun.
 
